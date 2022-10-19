@@ -9,7 +9,9 @@ A custom camera module to record video.
 5. Playback of recorded video with option to seek a specific portion of the video.
 
 #Camera Interface:
+
 ![Camera Interface](https://github.com/cedanmisquith/Custom-Video-Recorder-Swift/blob/main/Camera%20Interface.gif)
 
 #Playback Interface:
+
 ![Playback Interface](https://github.com/cedanmisquith/Custom-Video-Recorder-Swift/blob/main/Playback%20Interface.gif)
