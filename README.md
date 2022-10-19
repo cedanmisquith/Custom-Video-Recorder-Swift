@@ -1,5 +1,5 @@
 # Custom-Video-Recorder-Swift
-A custom camera module to record video.
+A custom camera module to record video. This can only work on a real iPhone and not on the simulator, so make sure you test with a real device.
 
 # Features:
 1. Count down timer when record is clicked with 0, 3, 5, 10 seconds as a toggle.
